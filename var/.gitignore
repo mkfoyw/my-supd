@@ -9,4 +9,4 @@ go.sum
 
 # idea ignore
 .DS_Store
-
+/log
